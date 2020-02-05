@@ -1,7 +1,7 @@
 name: flutter_uart_ble
-description: A new Flutter package project.
+description: A new Flutter package to integrate UART over BLE into your Flutter app with FlutterBleLib.
 version: 0.0.1
-author:
+author: Jon Ihlas
 homepage:
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_ble_lib: ^2.1.0
 
 dev_dependencies:
   flutter_test:

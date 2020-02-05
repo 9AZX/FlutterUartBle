@@ -1,7 +1,3 @@
 library flutter_uart_ble;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+import 'package:flutter_ble_lib/flutter_ble_lib.dart';
