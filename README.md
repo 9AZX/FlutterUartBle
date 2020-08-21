@@ -4,7 +4,7 @@ A Flutter package to integrate UART over [FlutterBleLib](https://github.com/Poli
 
 ## Getting Started
 
-This package is not published yet but you can add it to your project in the `pubspec.yaml` like [this](https://github.com/9AZX/FlutterUartBle/issues/1#issuecomment-592606034).
+This package is not published yet but you can add it to your project like [this](https://github.com/9AZX/FlutterUartBle/issues/1#issuecomment-592606034).
 
 ## Contributions
 
